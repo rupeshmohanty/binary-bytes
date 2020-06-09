@@ -1,20 +1,101 @@
-html {
-  font-size: 14px;
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
 }
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+:root {
+	--web-view-ids: Web_1280___1;
 }
-
-.container {
-  max-width: 960px;
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
 }
-
-.pricing-header {
-  max-width: 700px;
+#Web_1280___1 {
+	position: absolute;
+	width: 1382px;
+	height: 824px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
 }
-
-.card-deck .card {
-  min-width: 220px;
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 5px;
+	left: 933.5px;
+	top: 769.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#webdev {
+	position: absolute;
+	width: 358px;
+	height: 262px;
+	left: 92px;
+	top: 103px;
+	overflow: visible;
+}
+#ai {
+	position: absolute;
+	width: 358px;
+	height: 262px;
+	left: 525px;
+	top: 103px;
+	overflow: visible;
+}
+#android {
+	position: absolute;
+	width: 332px;
+	height: 262px;
+	left: 958px;
+	top: 103px;
+	overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet__co {
+	position: absolute;
+	left: 525px;
+	top: 412px;
+	overflow: visible;
+	width: 359px;
+	height: 327px;
+	text-align: left;
+	font-family: Arial Rounded MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(9,8,8,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_l {
+	position: absolute;
+	left: 967px;
+	top: 412px;
+	overflow: hidden;
+	width: 324px;
+	height: 327px;
+	text-align: left;
+	font-family: Arial Rounded MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(9,8,8,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_m {
+	position: absolute;
+	left: 100px;
+	top: 412px;
+	overflow: hidden;
+	width: 359px;
+	height: 321px;
+	text-align: left;
+	font-family: Arial Rounded MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(9,8,8,1);
 }
