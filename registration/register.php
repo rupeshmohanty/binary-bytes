@@ -14,7 +14,7 @@
     if (mysqli_num_rows($duplicate_result) == 1) {
         $_SESSION["status"] = "error";
         $_SESSION["msg"] = "User already exists!";
-        header('Location : index.php');
+        header('Location:index.php');
     }else{
         if(strcmp($password,$password2)!=0){
             $_SESSION["status"] = "error";

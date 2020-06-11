@@ -91,6 +91,7 @@
                             <input type="password" id="password2" name="password2" placeholder="Confirm Password" class="form-control" required/>  
                         </div>
                             <button type="submit" id="button" class="mt-4">Register</button>
+                            <strong class="text-center">If you already have an account <a href="../login/">Login here!</a></strong>
                     </form>
                 </div>
             </div>

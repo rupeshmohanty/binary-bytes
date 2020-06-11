@@ -75,7 +75,8 @@
                             <label for="password">Password</label>
                             <input type="password" id="password" name="password" class="form-control" placeholder="Password" required>
                         </div>
-                            <button type="submit" id="button" class="mt-4">Login</button>
+                            <button type="submit" id="button" class="mt-4">Login</button><br/>
+                            <strong>If you haven't registered yet? <a href="../registration/">Register here!</a></strong>
                     </form>
                 </div>
             </div>
