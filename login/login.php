@@ -13,6 +13,7 @@
     } else {
         $_SESSION["status"] = "logged";
         $_SESSION["msg"] = "User logged in successfully!";
+        $_SESSION["username"]=$username;
         header('Location:profile.php');
     }
     echo dirname(__FILE__);
