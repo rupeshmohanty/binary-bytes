@@ -38,7 +38,7 @@
 <body style="padding: 0px;">
 
     <div class="col-md-4">
-        <!--Just for some spacing-->
+        <!--only for some spacing-->
     </div>
 
     <!--Project details form-->
@@ -89,7 +89,7 @@
     
 
     <div class="col-md-4">
-        <!--Just for some spacing-->
+        <!--only for some spacing-->
     </div>
 
 
