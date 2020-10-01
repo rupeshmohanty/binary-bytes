@@ -41,7 +41,7 @@
         <!--only for some spacing-->
     </div>
 
-    <!--Project details form-->
+    <!--Project submission details form-->
     <div class="container col-md-4 mt-4">
         <div class="card">
             <div class="card-body">
