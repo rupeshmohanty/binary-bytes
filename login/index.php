@@ -1,3 +1,4 @@
+<!--INDEX FILE FOR LOGIN PAGE-->
 <?php
     include('../config.php');
     session_start();
@@ -41,7 +42,7 @@
     <div class="col-md-4">
         <!--Just for spacing-->
     </div>
-    <!--Login page-->
+    <!--LOGIN PAGE-->
     <div class="container col-md-4">
         <div class="card">
                 <div class="card-body">
@@ -88,6 +89,7 @@
     </div>
 <div class="col-md-4">
     <!--Just for some spacing-->
+    
 </div>
 
 <!--Scripts-->
