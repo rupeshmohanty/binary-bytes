@@ -10,6 +10,6 @@
     $details = "INSERT INTO project(name,email,contact,services) VALUES('$name','$email','$contact','$services');";
     $details_result = mysqli_query($con,$details) or die(mysqli_error($con));
     $_SESSION["status"] = "submitted";
-    $_SESSION["msg"] = "Your response has been recorded";
+    $_SESSION["msg"] = "Congratulations your response has been recorded";
     header('Location:index.php');
 ?>
