@@ -1,4 +1,4 @@
-<!--INDEX FILE FOR LOGIN PAGE-->
+<!--INDEX-->
 <?php
     include('../config.php');
     session_start();
